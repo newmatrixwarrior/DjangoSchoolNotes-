@@ -1,0 +1,28 @@
+Misconfiguration Vulnerability 
+
+SET UP
+
+Set up Passwordless ssh key based authentication 
+
+ssh-keygen -t rsa
+
+ssh-copy-id username@server_ip
+
+sudo nano /etc/ssh/sshd_config
+
+PubkeyAuthentication yes
+PasswordAuthentication no
+ChallengeResponseAuthentication no
+
+sudo service ssh restart
+
+ssh username@server_ip
+
+Learn how to set up key based authentication 
+
+Download Ubuntu on to USB 
+
+Use a switch 
+Find the flag.txt
+Which is located in /Documents/flag.txt 
+Cat the flag.txt file to see goodies 
