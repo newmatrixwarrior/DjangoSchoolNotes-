@@ -32,3 +32,48 @@ Cat the flag.txt file to see goodies
 
 Django is a new IT student working on a project trying to set up a new way of establishing a connection he soon learns of ssh as a way of connecting to another device. He keeps all his school notes in a repository on Github. He is studying so he can set up a machine so he can set up the ssh configuration to set it up with passwordless ssh key authentication. He is struggling to wrap the concept together with his thought process but he feels he may be on the right track. He double checks his notes to see if everything he has learned from his research is in place from his notes. 
 
+
+
+
+
+
+
+-----BEGIN OPENSSH PRIVATE KEY-----
+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
+-----END OPENSSH PRIVATE KEY-----
+
