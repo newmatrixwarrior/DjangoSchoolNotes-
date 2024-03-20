@@ -2,6 +2,8 @@ Misconfiguration Vulnerability
 
 SET UP
 
+PC1 ip 192.168.221.10 - PC2 ip 192.168.221.25 
+
 Set up Passwordless ssh key based authentication 
 
 ssh-keygen -t rsa
