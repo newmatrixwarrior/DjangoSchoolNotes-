@@ -2,7 +2,7 @@ Misconfiguration Vulnerability
 
 SET UP
 
-PC1 ip 192.168.221.10 - PC2 ip 192.168.221.25 
+PC1 ip 192.168.221.10 username - nmwx - password Caldwell1 - PC2 ip 192.168.221.25 
 
 Set up Passwordless ssh key based authentication 
 
